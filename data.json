@@ -1,12 +1,94 @@
 {
-    "subjects":[
+    "name": "Tshepiso Thosago",
+    "title": "Information Systems Graduate",
+    "contact": {
+        "address": "Johannesburg, South Africa 1619",
+        "phone": "+27 724679536",
+        "email": "tshepiso@bnut.co.za",
+        "website": "https://bold.pro/my/tshepiso-thosago-240520175122/738r"
+    },
+    "professionalSummary": "Organized project manager committed to achieving operational objectives of each project by contributing to strategic plans and reviews. Hands-on experience planning, analyzing and implementing assigned projects and establishing schedules and project parameters. Solves critical issues in time-sensitive environments.",
+    "experience": [
         {
-            "name":"IsiZulu"
+            "title": "System Admin Clerk",
+            "company": "TFG, The Foschini Group, Johannesburg",
+            "dates": "July 2023 - February 2024",
+            "duties": [
+                "Increased efficiency by streamlining filing systems and organizing important documents.",
+                "Enhanced office organization with regular maintenance of files, records, and supplies inventory.",
+                "Supported event planning initiatives through venue sourcing, material preparation and logistics coordination resulting in successful gatherings.",
+                "Processed mail accurately and efficiently, ensuring that all correspondence were distributed to correct recipients in time.",
+                "Utilized strong multitasking skills to manage multiple priorities and tasks, ensuring timely completion of each assignment.",
+                "Facilitated communication between eight departments through prompt forwarding of messages and coordination of inter-departmental meetings.",
+                "Trained new clerks on company procedures and software tools effectively contributing to their integration into the team.",
+                "Provided quality clerical support through data entry, document management, email correspondence, and overseeing operation of office equipment.",
+                "Provided meeting support by taking minutes and dictations.",
+                "Input data into spreadsheets and databases.",
+                "Created and maintained detailed records of all office activities.",
+                "Assisted with onboarding of new employees."
+            ]
         },
         {
-            "name":"IsiXhosa"
+            "title": "Data Annotator",
+            "company": "University Of Johannesburg, Bunting Road Campus, Johannesburg (Remote)",
+            "dates": "June 2022 - March 2023",
+            "duties": [
+                "Enhanced data accuracy by meticulously annotating and labeling various data types.",
+                "Followed strict quality control measures for consistently reliable results throughout diverse assignments.",
+                "Assisted in refining annotation guidelines to improve overall efficiency and accuracy within our team.",
+                "Reduced errors in machine learning models by providing high-quality annotated data.",
+                "Developed and implemented data entry operations.",
+                "Used computer software to store and retrieve data.",
+                "Scanned over 300 documents and saved in database to keep records of essential organizational information.",
+                "Updated and maintained customer information, documents and records.",
+                "Checked for accuracy by verifying data and records.",
+                "Trained new team members on annotation tools, ensuring consistency across all projects.",
+                "Contributed to development of AI algorithms through precise data annotation tasks.",
+                "Coded and processed applications into required electronic formats."
+            ]
         }
     ],
-
-    "photo":"./pic.png"
+    "skills": [
+        "Microsoft Project",
+        "Cost Estimation",
+        "Meeting Facilitation",
+        "Project Scheduling",
+        "Gantt Charts",
+        "Project Planning",
+        "Scope Management",
+        "Scrum Framework",
+        "Project Management",
+        "Stakeholder Relations",
+        "Problem-solving aptitude",
+        "Decision-Making",
+        "Multitasking",
+        "Problem-Solving",
+        "Information Technology Management"
+    ],
+    "languages": [
+        { "name": "Southern Sotho", "level": "Advanced (C1)" },
+        { "name": "English", "level": "Bilingual or Proficient (C2)" },
+        { "name": "Afrikaans", "level": "Bilingual or Proficient (C2)" },
+        { "name": "French", "level": "Intermediate (B1)" },
+        { "name": "IsiZulu", "level": "Bilingual or Proficient (C2)" }
+    ],
+    "websites": [
+        { "name": "Tshepiso's Bold Profile", "url": "https://bold.pro/my/tshepiso-thosago-240520175122" },
+        { "name": "LinkedIn Profile", "url": "https://www.linkedin.com/in/freddy-thosago-10149a183/" },
+        { "name": "GitHub Profile", "url": "https://github.com/TshepisoogasohT" }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Commerce: Information Systems",
+            "institution": "University of Johannesburg, Auckland Park, South Africa",
+            "completionDate": "March 2024",
+            "details": [
+                "Recipient of Frigoglass Bursary, Second semester",
+                "Full stack web development, University of Johannesburg, Completed 2024",
+                "Completed University-level Coursework: Information Systems Agile Project, University of Johannesburg",
+                "Capstone Project, Johannesburg Business School, In process",
+                "Member of Technopreneurship"
+            ]
+        }
+    ]
 }
